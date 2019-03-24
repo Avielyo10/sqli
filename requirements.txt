@@ -1,0 +1,4 @@
+pbr
+beautifulsoup4
+tqdm
+lxml
